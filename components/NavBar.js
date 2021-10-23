@@ -9,7 +9,7 @@ const NavBar = () => {
                 <Link href="/" passHref>
                     < Navbar.Brand href="#home" >
                         <img
-                            src="/static/logo.png"
+                            src="/static/logo-healmind.png"
                             width="100"
                             className="d-inline-block align-top"
                             alt="HealMind Logo"

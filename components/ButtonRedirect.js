@@ -3,7 +3,7 @@ import styled from "styled-components"
 import Link from "next/link"
 
 const ButtonWrapper = styled.a`
-    padding: 0.9rem;
+    padding: 2vw;
     text-decoration: none;
     color: #2E4494;
     cursor: pointer;
